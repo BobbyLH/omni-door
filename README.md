@@ -1,3 +1,5 @@
+Project migration to https://github.com/omni-door/cli
+
 # 🐸 omni-door (The CLI Tool for set up standard JS prject)
 
 [![NPM downloads](http://img.shields.io/npm/dm/omni-door.svg?style=flat-square)](https://www.npmjs.com/package/omni-door)
